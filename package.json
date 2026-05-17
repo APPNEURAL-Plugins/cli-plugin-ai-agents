@@ -1,5 +1,5 @@
 {
-  "name": "@appneural/plugin-ai-agents",
+  "name": "@appneural/cli-plugin-ai-agents",
   "version": "0.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,7 +23,7 @@
   "keywords": [
     "appneural",
     "plugin",
-    "plugin-ai-agents"
+    "cli-plugin-ai-agents"
   ],
   "author": "APPNEURAL",
   "license": "MIT",

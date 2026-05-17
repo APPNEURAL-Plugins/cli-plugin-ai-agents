@@ -1,4 +1,4 @@
-# @appneural/plugin-ai-agents
+# @appneural/cli-plugin-ai-agents
 
 ## Project Overview
 
@@ -14,7 +14,7 @@ This plugin enables agent-based automation and orchestration for the Appneural p
 ## Installation
 
 ```bash
-npm add @appneural/plugin-ai-agents
+npm add @appneural/cli-plugin-ai-agents
 ```
 
 ## Available Commands (using anx tools)
