@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This plugin enables agent-based automation and orchestration for the Appneural platform. It allows users to create, manage, and interact with AI agents for a variety of tasks, improving productivity and enabling complex workflows.
+This plugin enables agent-based automation and orchestration for the APPNEURAL platform. It allows users to create, manage, and interact with AI agents for a variety of tasks, improving productivity and enabling complex workflows.
 
 ## Benefits
 
